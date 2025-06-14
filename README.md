@@ -2,10 +2,7 @@
 
 Make the best trading algorithm!
 
-- GENERAL ROUND SUBMISSION IS ON 11/07/2024 AT 9PM
-- 03/07/2024: _prices.txt_ is now updated with the leaderboard update dataset!
-- 03/07/2024: _eval.py_ now evaluates from days 500 to 750
-- 03/07/2024: Renamed _teamName.py_ to _main.py_
+- GENERAL ROUND SUBMISSION IS ON 14/07/2025
 
 ---
 
